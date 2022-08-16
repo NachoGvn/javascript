@@ -1,0 +1,31 @@
+ [
+    {
+         "id": 1,
+         "nombre": "Gin 22 botanicos",
+         "precio": 3500,
+         "cantidad" : 0
+    
+    },
+    {
+         "id": 2,
+         "nombre": "Gin de frutos rojos",
+        "precio": 3100,
+         "cantidad" : 0
+    
+    },
+    {
+        "id": 3,
+         "nombre": "gin de 20 botanicos",
+         "precio": 3200,
+         "cantidad" : 0
+    
+    },
+    {
+         "id": 4,
+         "nombre": "Gin añejado",
+         "precio": 3000,
+         "cantidad" : 0
+    
+    }
+    
+    ]
